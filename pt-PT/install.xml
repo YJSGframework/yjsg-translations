@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" client="administrator" type="language" method="upgrade">
+	<name>Yjsg Framework (pt-PT)</name>
+	<tag>pt-PT</tag>
+	<version>1.0.0</version>
+	<creationDate>01-31-2015</creationDate>
+	<author>OpenWeb</author>
+	<authorEmail>openweb@openweb.pt</authorEmail>
+	<authorUrl>https://www.openweb.pt/</authorUrl>
+	<copyright>Copyright (c) 2015 OpenWeb. Todos os direitos reservados.</copyright>
+	<license>GNU General Public License Versão 2 ou superior; ver LICENSE.txt</license>
+	<description>Tradução em Português Europeu da YJSG Framework</description>
+	<files>
+		<filename>pt-PT.plg_system_yjsg.ini</filename>
+		<filename>pt-PT.plg_system_yjsg.sys.ini</filename>
+		<filename file="meta">install.xml</filename>
+	</files>
+</extension>
