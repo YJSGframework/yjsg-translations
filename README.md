@@ -1,4 +1,4 @@
-# YJSG Template Framework Translations
+# YJSG Translations
 Translations for YJSG Template Framework
 
 # How to translate YJSG?
