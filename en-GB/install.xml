@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" client="administrator" type="language" method="upgrade">
+	<name>Yjsg Framework (en-GB)</name>
+	<tag>en-GB</tag>
+	<version>1.0.0</version>
+	<creationDate>01-31-2015</creationDate>
+	<author>Youjoomla.com</author>
+	<authorEmail>youjoomla@gmail.com</authorEmail>
+	<authorUrl>http://www.youjoomla.com</authorUrl>
+	<copyright>Copyright (c) since 2007 Youjoomla.com. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description>English translation for YJSG Framework</description>
+	<files>
+		<filename>en-GB.plg_system_yjsg.ini</filename>
+		<filename>en-GB.plg_system_yjsg.sys.ini</filename>
+		<filename file="meta">install.xml</filename>
+	</files>
+</extension>
