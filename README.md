@@ -1,5 +1,5 @@
 # YJSG Translations
-Translations for YJSG Template Framework
+Translations for YJSG Template Framework Plugin
 
 # How to translate YJSG?
 1. Fork yjsg-translations repo
