@@ -2,8 +2,8 @@
 <extension version="2.5" client="administrator" type="language" method="upgrade">
 	<name>Yjsg Framework (pt-PT)</name>
 	<tag>pt-PT</tag>
-	<version>1.0.0</version>
-	<creationDate>01-31-2015</creationDate>
+	<version>1.0.1</version>
+	<creationDate>02-01-2015</creationDate>
 	<author>OpenWeb</author>
 	<authorEmail>openweb@openweb.pt</authorEmail>
 	<authorUrl>https://www.openweb.pt/</authorUrl>
