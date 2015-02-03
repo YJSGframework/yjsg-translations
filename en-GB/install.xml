@@ -2,8 +2,8 @@
 <extension version="2.5" client="administrator" type="language" method="upgrade">
 	<name>Yjsg Framework (en-GB)</name>
 	<tag>en-GB</tag>
-	<version>1.0.0</version>
-	<creationDate>01-31-2015</creationDate>
+	<version>1.0.1</version>
+	<creationDate>02-03-2015</creationDate>
 	<author>Youjoomla.com</author>
 	<authorEmail>youjoomla@gmail.com</authorEmail>
 	<authorUrl>http://www.youjoomla.com</authorUrl>
