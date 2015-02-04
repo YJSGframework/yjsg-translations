@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" client="administrator" type="language" method="upgrade">
+	<name>Yjsg Framework (ru-RU)</name>
+	<tag>ru-RU</tag>
+	<version>1.0.0</version>
+	<creationDate>04-02-2015</creationDate>
+	<author>Stolyarenko Oleg</author>
+	<authorEmail>joomlatestanddrive@gmail.com</authorEmail>
+	<authorUrl>http://</authorUrl>
+	<copyright>Copyright (c) since 2007 Youjoomla.com. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description>Русский перевод плагина YJSG Framework</description>
+	<files>
+		<filename>ru-RU.plg_system_yjsg.ini</filename>
+		<filename>ru-RU.plg_system_yjsg.sys.ini</filename>
+		<filename file="meta">install.xml</filename>
+	</files>
+</extension>
